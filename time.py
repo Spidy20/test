@@ -1,4 +1,4 @@
-a=int(input('enter time'))
+a=int(input('enter time:'))
 
 if a<12:
     print('good morning')
